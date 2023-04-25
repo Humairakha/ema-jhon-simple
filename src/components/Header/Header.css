@@ -20,3 +20,7 @@ nav.header a{
 nav.header a:hover{
     color: chocolate;
 }
+
+.user-info{
+    color: #FFFFFF;
+}
